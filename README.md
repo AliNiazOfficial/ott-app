@@ -3,12 +3,12 @@
 <a href="https://www.AliNiazOfficial.com/"><img title="Made in PAKISTAN" src="https://img.shields.io/badge/MADE%20IN-PAKISTAN-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://www.AliNiazOfficial.com/"><img title="Made in PAKISTAN" src="https://img.shields.io/badge/Tool-P Gen-green.svg"></a>
+<a href="https://www.AliNiazOfficial.com/"><img title="Made in PAKISTAN" src="https://img.shields.io/badge/Tool-OTT-App-green.svg"></a>
 <a href="https://www.AliNiazOfficial.com/"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://www.AliNiazOfficial.com/"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 <p align="center">
-<a href="https://www.github.com/AliNiazOfficial/"><img title="OTT-App" src="https://raw.githubusercontent.com/AliNiazOfficial/P-Gen/main/Files/P-Gen%20Thumbnal.jpg"></a>
+<a href="https://www.github.com/AliNiazOfficial/"><img title="OTT-App" src="https://raw.githubusercontent.com/AliNiazOfficial/ott-app/refs/heads/main/File/20260320_053837.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/AliNiazOfficial"><img title="Github" src="https://img.shields.io/badge/AliNiazOfficial-brightgreen?style=for-the-badge&logo=github"></a>
